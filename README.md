@@ -8,4 +8,4 @@ Features of this Advance key logger
 6. send all the recorded files to email 
 
 Must ensure you install all the libraries mentioned
-The image file gmail.png shows the shows the result 
+The image file gmail.png shows the shows the result of gmail
