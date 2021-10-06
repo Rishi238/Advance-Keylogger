@@ -1,0 +1,10 @@
+User needs  to isntall following python libraries: 
+
+1.numpy
+2.pynput
+3.tkinter
+4.socket
+5.platform
+6.scipy
+7.pillow
+8.sounddevice
