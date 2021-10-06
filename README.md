@@ -7,5 +7,5 @@ Features of this Advance key logger
 5. secretly captures the pic of user from camera 
 6. send all the recorded files to email 
 
-Must ensure you install all the libraries mentionesd
-the image file gmail.png shows the shows the result 
+Must ensure you install all the libraries mentioned
+The image file gmail.png shows the shows the result 
