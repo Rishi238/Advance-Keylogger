@@ -1,7 +1,0 @@
-Host name : DESKTOP-6PC72O9
-Ip Address : "confidential"
-System: Windows
-Release: 10
-Version: 10.0.19043
-Machine: AMD64
-Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
