@@ -17,7 +17,7 @@ Features of this Advance key logger
 ## Output
 ![gmail](https://user-images.githubusercontent.com/34811605/136314990-ecfa692b-8f4a-4b43-84ff-171e7694493f.png)
 
-Must ensure you install all the libraries mentioned
+Must sure you install all the libraries mentioned
 
 
 
