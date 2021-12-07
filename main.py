@@ -128,9 +128,9 @@ capImag()
 
 # ----------------Sending emails----------------
 def sendingEmail():
-    senderAddr = "rishijabc@gmail.com"
-    senderPass = "123@Abcd"
-    receiverAddr = "rishijha238@gmail.com"
+    senderAddr = "Sender email"
+    senderPass = "Sender email password"
+    receiverAddr = "Enter Receiver Email"
 
     msg = MIMEMultipart()
     msg['From'] = senderAddr
